@@ -2,7 +2,7 @@ from yaspin import yaspin
 from termcolor import colored
 print()
 print()
-print(colored("Welcome to Carter", 'magenta'))
+print(colored("Starting Hostess.AI", 'teal'))
 print(f"Configure your agent at:")
 print(colored("https://dashboard.carterapi.com", "blue"))
 print()
